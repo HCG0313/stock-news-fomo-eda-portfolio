@@ -1,0 +1,44 @@
+{
+  "period": [
+    "2024-12-02",
+    "2025-11-28"
+  ],
+  "stocks": [
+    "LG에너지솔루션",
+    "NAVER",
+    "삼성전자",
+    "셀트리온",
+    "에코프로",
+    "카카오",
+    "펄어비스",
+    "포스코퓨처엠",
+    "한화오션",
+    "현대차"
+  ],
+  "stock_rows": 2410,
+  "attention_rows": 3620,
+  "panel_rows": 3620,
+  "missing_next_reactions": 10,
+  "pair_count_invariant": true,
+  "fomo_index_range": [
+    0.07235632319400119,
+    0.759683829147416
+  ],
+  "best_diagnostic_k": 2,
+  "reported_cluster_k": 3,
+  "inputs_sha256": {
+    "attention_daily.csv": "3190d45662e63443c78ae3668fbb30b73e31a9ab55d0a60c3462ac807eca0f36",
+    "stock_daily.csv": "0ec8fc606899d8614f4eb38d07d7b47b9f5071308fbee77b12d398c5354ef4a1"
+  },
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.1",
+    "matplotlib": "3.11.2",
+    "scikit-learn": "1.9.1"
+  },
+  "limitations": [
+    "Descriptive associations, not causal FOMO evidence or price prediction accuracy.",
+    "Calendar inferred from collected market dates, not independently certified exchange calendar.",
+    "Full-sample scaling, spike thresholds and selected lags are retrospective."
+  ]
+}

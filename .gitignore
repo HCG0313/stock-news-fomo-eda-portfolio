@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.ipynb_checkpoints/
+data/original/
+*.zip
+*.xlsx
+*.xls
+*.hwp
+*.hwpx
+*.docx
+*.pptx
+*.pdf

@@ -1,0 +1,22 @@
+[
+  {
+    "source_filename": "탐색적 데이터 분서 (이슈와 주식) EDA_code_최종.ipynb",
+    "source_sha256": "364772325bd6935ce49ff95b54ace553e0b3ddc7965d9d3069481943a92bb9cb",
+    "archive_filename": "coursework_final.ipynb",
+    "changes": [
+      "Removed stored outputs and execution counters",
+      "Redacted personal local paths",
+      "Added archive status note"
+    ]
+  },
+  {
+    "source_filename": "test.1.ipynb",
+    "source_sha256": "5b76455dd3b3c93beaf9660aa7ee5576e07863e25b6a983129e99c30e63449ed",
+    "archive_filename": "fomo_experiment.ipynb",
+    "changes": [
+      "Removed stored outputs and execution counters",
+      "Redacted personal local paths",
+      "Added archive status note"
+    ]
+  }
+]

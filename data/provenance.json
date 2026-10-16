@@ -1,0 +1,24 @@
+{
+  "period": [
+    "2024-12-02",
+    "2025-11-28"
+  ],
+  "stock_rows": 2410,
+  "attention_rows": 3620,
+  "stock_count": 10,
+  "source_files": [
+    {
+      "filename": "주식통합.xlsx",
+      "sha256": "34f5885c1aaf022c41182b94cab2eb6a5f036952e3ef1ab7c1b71c01572aef08"
+    },
+    {
+      "filename": "뉴스, 검색 데이터.xlsx",
+      "sha256": "1d13e1dfd474d17644c82e6792f51d59053dbbda88e90a5718b8f919f50d1e54"
+    }
+  ],
+  "csv_files": {
+    "attention_daily.csv": "3190d45662e63443c78ae3668fbb30b73e31a9ab55d0a60c3462ac807eca0f36",
+    "stock_daily.csv": "0ec8fc606899d8614f4eb38d07d7b47b9f5071308fbee77b12d398c5354ef4a1"
+  },
+  "processing": "Selected columns, wide-to-long attention reshape, common date range; no synthetic observations."
+}
